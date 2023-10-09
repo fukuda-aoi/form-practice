@@ -1,1 +1,9 @@
 @charset "UTF-8";
+.body {
+    background-color: rgb(222, 239, 253);
+}
+
+.kome {
+    color: red;
+    font-size: small;
+}
